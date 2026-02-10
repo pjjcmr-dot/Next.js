@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm install:*)",
+      "Bash(npm install:*)",
+      "Bash(pnpm run dev)",
+      "Bash(npx prisma generate:*)",
+      "Bash(set \"DATABASE_URL=postgresql://postgres:password@localhost:5432/movie_review\")",
+      "Bash(echo:*)",
+      "Bash(DATABASE_URL=\"postgresql://postgres:password@localhost:5432/movie_review\" npx prisma generate:*)",
+      "Bash(node:*)",
+      "Bash(pnpm prisma:generate:*)",
+      "Bash(pnpm dev)",
+      "Bash(pnpm add:*)",
+      "Bash(cmd //c \"rmdir /s /q \"\"G:\\\\USB\\\\04.FS\\\\Vanilla-extract\\\\PracticeVanilla-extract\\\\codeit-fs-nextjs-backend\\\\learn-page-router\"\"\")",
+      "Bash(handle.exe:*)",
+      "Bash(tasklist:*)",
+      "Bash(netstat:*)",
+      "Bash(taskkill:*)"
+    ]
+  }
+}
