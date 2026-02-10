@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(netstat:*)",
+      "Bash(taskkill:*)",
+      "Bash(npx eslint:*)",
+      "Bash(del \"G:\\\\USB\\\\04.FS\\\\next.js\\\\next-page-router\\\\src\\\\pages\\\\movie\\\\[...id].js\")",
+      "Bash(curl:*)"
+    ]
+  }
+}
